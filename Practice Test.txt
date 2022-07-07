@@ -2,4 +2,6 @@ I like Soccer.
 
 It is my favorite sport
 
-Hello, this is George
+Hello, this is George.
+
+Note: Ben likes distance running, but soccer is cool too.
